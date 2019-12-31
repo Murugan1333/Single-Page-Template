@@ -1,0 +1,4 @@
+Download Sample Template File
+Export and Import on Templates
+Css and Another Files are Moved in Static to Assets -Using (python manage.py collectstatic)
+and Run python manage.py runserver
